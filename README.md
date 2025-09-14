@@ -39,5 +39,5 @@ Domain: Healthcare
 - Improved customer satisfaction through faster claim resolution
 - Enhanced resource allocation by identifying high-volume workbaskets
 - Provided management with actionable metrics for performance evaluation
-
+- 
 - <img width="592" height="292" alt="image001 (1)" src="https://github.com/user-attachments/assets/4eb5198a-7c3b-451e-bbaf-0e5cdbf1c11e" />
